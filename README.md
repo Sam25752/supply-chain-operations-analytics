@@ -2,9 +2,9 @@
 
 ### Root-Cause Analysis, Late-Delivery Risk & Intervention Prioritization
 
-🔗 **Live Dashboard:** [Open Streamlit Dashboard](YOUR_STREAMLIT_LINK)
+🔗 **Live Dashboard:** [Open Streamlit Dashboard](https://supply-chain-operations-analytics-fn2aqitymk8u2wcd4haswz.streamlit.app/)
 
-🔗 **GitHub Repository:** [View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
+🔗 **GitHub Repository:** [View Source Code](https://github.com/Sam25752/supply-chain-operations-analytics)
 
 ---
 
